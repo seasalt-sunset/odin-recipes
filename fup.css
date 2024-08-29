@@ -1,0 +1,24 @@
+.fup {
+    background-color: rgb(181, 6, 6);
+}
+.img-fup {
+    display: block;
+    margin: auto;
+    border-style: solid;
+    border-color: rgb(141, 9, 9);
+    border-width: 7px;
+}
+.title-fup {
+    text-align: center;
+    color: rgb(173, 29, 29);
+    -webkit-text-stroke: 3px black;
+    background-color: rgb(193, 28, 28);
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: solid;
+    border-color: hsl(0, 84%, 21%);
+    padding: 2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 70px;
+}

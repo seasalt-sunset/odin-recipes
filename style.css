@@ -167,10 +167,15 @@ ol, ol li, ol li strong, ol li em {
     border-radius: 10px;
 
 }
-
+/*
+.fup-link {
+    risolvi problema link
+}
+*/
 
 #chef {
     border-color: hsl(0, 55%, 79%);
+    padding: 0%;
 }
 
 #lasagnaPic, #tofuPic, #barleyPic {
